@@ -1,2 +1,2 @@
 # invie-github
-Repositorio de practica para Git
+Repositorio de práctica para Git
